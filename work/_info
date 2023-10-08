@@ -1,0 +1,374 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/VHDL/Enib/labo2
+Ecompteur
+Z0 w1696246331
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dF:/VHDL/Enib/labo3
+Z5 8F:/VHDL/Enib/labo3/compteur.vhd
+Z6 FF:/VHDL/Enib/labo3/compteur.vhd
+l0
+L5
+VONlO3k::GeIQeV;:jAV6A0
+!s100 QkFN9o2QJVjc4V7l2z[_e2
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1696783805
+!i10b 1
+Z9 !s108 1696783805.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/VHDL/Enib/labo3/compteur.vhd|
+Z11 !s107 F:/VHDL/Enib/labo3/compteur.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aarch_compteur
+R1
+R2
+R3
+DEx4 work 8 compteur 0 22 ONlO3k::GeIQeV;:jAV6A0
+l12
+L10
+VLLA7[3bjNL3U@Z_RlVCd=0
+!s100 Bj0N3fB9Z8;fPVl>I5M<[3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Edecodeur
+Z14 w1696246421
+R2
+R3
+R4
+Z15 8F:/VHDL/Enib/labo3/decodeur.vhd
+Z16 FF:/VHDL/Enib/labo3/decodeur.vhd
+l0
+L4
+V=F8KCbXZ@H=12FZnS4oz;3
+!s100 [>^NdVHDHoN>4]8ffnePU1
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/VHDL/Enib/labo3/decodeur.vhd|
+Z18 !s107 F:/VHDL/Enib/labo3/decodeur.vhd|
+!i113 1
+R12
+R13
+Aarch_decodeur
+R2
+R3
+DEx4 work 8 decodeur 0 22 =F8KCbXZ@H=12FZnS4oz;3
+l10
+L9
+VzcHGEK]TF1@>Z`P6P24_c2
+!s100 A6U_14Hl_d_E6l@Qi]HQO0
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Edetecteur_parite
+Z19 w1696246445
+R2
+R3
+R4
+Z20 8F:/VHDL/Enib/labo3/detecteur_parite.vhd
+Z21 FF:/VHDL/Enib/labo3/detecteur_parite.vhd
+l0
+L4
+V<0eFHMHG<IzD;_`kd8CUd2
+!s100 2hlde<<V>F0<4iQZHW1Yi0
+R7
+32
+R8
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/VHDL/Enib/labo3/detecteur_parite.vhd|
+Z23 !s107 F:/VHDL/Enib/labo3/detecteur_parite.vhd|
+!i113 1
+R12
+R13
+Aarch_detecteur_parite
+R2
+R3
+DEx4 work 16 detecteur_parite 0 22 <0eFHMHG<IzD;_`kd8CUd2
+l10
+L9
+Vmnc7=[4bTgcl<Yz=7kK3M0
+!s100 E9I5XaK:AXV3diAP=d<nL0
+R7
+32
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13
+Ereg_serialisateur
+Z24 w1696248931
+R1
+R2
+R3
+R4
+Z25 8F:/VHDL/Enib/labo3/reg_serialisateur.vhd
+Z26 FF:/VHDL/Enib/labo3/reg_serialisateur.vhd
+l0
+L6
+VVXR0WSF>?MA[I9:JWiR?d3
+!s100 h]GSRNCKIaIG::;40n8FR1
+R7
+32
+R8
+!i10b 1
+R9
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/VHDL/Enib/labo3/reg_serialisateur.vhd|
+Z28 !s107 F:/VHDL/Enib/labo3/reg_serialisateur.vhd|
+!i113 1
+R12
+R13
+Aarch_reg_serialisateur
+R1
+R2
+R3
+DEx4 work 17 reg_serialisateur 0 22 VXR0WSF>?MA[I9:JWiR?d3
+l15
+L13
+VWRL8=M4FI[_SYcSG3VKz63
+!s100 ie?I6A1Z0?B9D2G^o4I_70
+R7
+32
+R8
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Eregistre_ctl
+Z29 w1696246265
+R2
+R3
+R4
+Z30 8F:/VHDL/Enib/labo3/registre_ctl.vhd
+Z31 FF:/VHDL/Enib/labo3/registre_ctl.vhd
+l0
+L4
+V>NDW?Vg9[Wi22ehhHWBh31
+!s100 BmDG;iQb9ln19JfbCcf]`0
+R7
+32
+R8
+!i10b 1
+R9
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/VHDL/Enib/labo3/registre_ctl.vhd|
+Z33 !s107 F:/VHDL/Enib/labo3/registre_ctl.vhd|
+!i113 1
+R12
+R13
+Aarch_registre_ctl
+R2
+R3
+DEx4 work 12 registre_ctl 0 22 >NDW?Vg9[Wi22ehhHWBh31
+l11
+L10
+V::nD2QUmalPJ<Y>KH@k=93
+!s100 NlLjz9S_eU>lm>o8IGC>;0
+R7
+32
+R8
+!i10b 1
+R9
+R32
+R33
+!i113 1
+R12
+R13
+Eregistre_etat
+Z34 w1696246300
+R2
+R3
+R4
+Z35 8F:/VHDL/Enib/labo3/registre_etat.vhd
+Z36 FF:/VHDL/Enib/labo3/registre_etat.vhd
+l0
+L4
+VYfW_fUB2zP53gR1V?24dz2
+!s100 WZfa2n@<TUH>UdU1meUh>0
+R7
+32
+R8
+!i10b 1
+R9
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/VHDL/Enib/labo3/registre_etat.vhd|
+Z38 !s107 F:/VHDL/Enib/labo3/registre_etat.vhd|
+!i113 1
+R12
+R13
+Aarch_registre_etat
+R2
+R3
+DEx4 work 13 registre_etat 0 22 YfW_fUB2zP53gR1V?24dz2
+l11
+L9
+Vz>HY348B1GC9I=kI@aP^n0
+!s100 BZA0bG6z?Sk7h9k20jn1>1
+R7
+32
+R8
+!i10b 1
+R9
+R37
+R38
+!i113 1
+R12
+R13
+Eregistre_tampon
+Z39 w1696246233
+R2
+R3
+R4
+Z40 8F:/VHDL/Enib/labo3/registre_tampon.vhd
+Z41 FF:/VHDL/Enib/labo3/registre_tampon.vhd
+l0
+L4
+Vf9OW5EYRk3^bPb;d[R_VK0
+!s100 ldg3l:z<n3ORb:TXI@SiV1
+R7
+32
+R8
+!i10b 1
+R9
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/VHDL/Enib/labo3/registre_tampon.vhd|
+Z43 !s107 F:/VHDL/Enib/labo3/registre_tampon.vhd|
+!i113 1
+R12
+R13
+Aarch_registre_tampon
+R2
+R3
+DEx4 work 15 registre_tampon 0 22 f9OW5EYRk3^bPb;d[R_VK0
+l11
+L10
+V;j2nVYnlKbiJgSdQ`1;Ez1
+!s100 H@N49QT?^SPoAEG<4MAHk2
+R7
+32
+R8
+!i10b 1
+R9
+R42
+R43
+!i113 1
+R12
+R13
+Esequenceur_serial
+Z44 w1696250772
+R2
+R3
+R4
+Z45 8F:/VHDL/Enib/labo3/sequenceur_serial.vhd
+Z46 FF:/VHDL/Enib/labo3/sequenceur_serial.vhd
+l0
+L5
+VGZJU`MRz8l8jljX9F9O<M0
+!s100 6KkNb6Ad3deKZVQUni@AP1
+R7
+32
+R8
+!i10b 1
+R9
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/VHDL/Enib/labo3/sequenceur_serial.vhd|
+Z48 !s107 F:/VHDL/Enib/labo3/sequenceur_serial.vhd|
+!i113 1
+R12
+R13
+Aarch_sequenceur_serial
+R2
+R3
+DEx4 work 17 sequenceur_serial 0 22 GZJU`MRz8l8jljX9F9O<M0
+l12
+L11
+Vb@1nXA461gAlW0ILil5ln3
+!s100 M^WYWn>0WkBZ6IVOFCgfA3
+R7
+32
+R8
+!i10b 1
+R9
+R47
+R48
+!i113 1
+R12
+R13
+Eserial
+Z49 w1696250141
+R2
+R3
+R4
+Z50 8F:/VHDL/Enib/labo3/serial.vhd
+Z51 FF:/VHDL/Enib/labo3/serial.vhd
+l0
+L5
+VQWFmZG8Cbl:5M83f<Y_U^3
+!s100 XV<1>=D5]ZG`6:[O8QT]z1
+R7
+32
+R8
+!i10b 1
+Z52 !s108 1696783804.000000
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/VHDL/Enib/labo3/serial.vhd|
+Z54 !s107 F:/VHDL/Enib/labo3/serial.vhd|
+!i113 1
+R12
+R13
+Aarch_serial
+DEx4 work 17 reg_serialisateur 0 22 ;2C`GXVVCCW;WjLH@BAX50
+DEx4 work 16 detecteur_parite 0 22 64@T8<YkGlBS:8MYOgS6:1
+R1
+DEx4 work 8 compteur 0 22 mfzHcoVUWiRaX]F:9;gz^0
+DEx4 work 17 sequenceur_serial 0 22 Wk>dQIO3ke6jU^?odLkC21
+DEx4 work 13 registre_etat 0 22 <LcFJADjkYZKNGh2F08H60
+DEx4 work 12 registre_ctl 0 22 ?1Z@O2e9M9[dI2JHj=bgT0
+Z55 DEx4 work 15 registre_tampon 0 22 [cBoSDdOWGPUZ[<hO``gM1
+DEx4 work 8 decodeur 0 22 9blh=UWeE@ZQ_kQ1BEo853
+R2
+R3
+DEx4 work 6 serial 0 22 QWFmZG8Cbl:5M83f<Y_U^3
+l21
+L13
+VL;DMYER;3?B038CLfde782
+!s100 eF5eV@6>B8HZQCWEh15Kc3
+R7
+32
+R8
+!i10b 1
+R52
+R53
+R54
+!i113 1
+R12
+R13
